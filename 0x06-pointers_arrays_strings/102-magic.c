@@ -1,4 +1,11 @@
 #include <stdio.h>
+/*
+ * main: main function
+ *
+ * Description: program description
+ * main- main function
+ * Return: void
+ */
 
 int main(void)
 {
@@ -9,8 +16,9 @@ int main(void)
 	a[2] = 1024;
 	p = &n;
 	/*
+	 * @main: main function
 	 * write your line of code here...
-	 * Remember:
+	 * Remember: youtube
 	 * - you are not allowed to use a
 	 *   -you are not alloewed to modify p
 	 *   - only one statement
